@@ -1,4 +1,4 @@
-package com.example.SocialHubConnect;
+package com.example.SocialHub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

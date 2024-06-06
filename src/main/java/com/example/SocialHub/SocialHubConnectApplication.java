@@ -1,4 +1,4 @@
-package com.example.SocialHubConnect;
+package com.example.SocialHub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
